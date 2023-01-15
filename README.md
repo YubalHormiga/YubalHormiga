@@ -3,7 +3,7 @@
 
 
 
-<h4 align="center" ><strong>console.log('Hello, Worl¡¡¡👋')<strong> <h4>
+<h4 align="center" ><strong>console.log('Hello, World¡¡¡👋')<strong> <h4>
 
 <p align="center">After several years in the travel agency sector, I decided to make a job change. Now I'm training as a programmer and after the bootcamp I'm still studying hard in a self-taught way, brushing up my knowledge and learning new libraries like Jest and React Testing Library and TypeScript as a programming language. I am constantly learning, I love to overcome challenges and, most importantly, I enjoy programming.<p>
 
