@@ -11,8 +11,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/yubal-hormiga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/yubal.hormigahormiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yubal.hormigahormiga" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yubalhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yubalhh/" height="30" width="40" /></a>
-</p>
+
 
 <h4 align="center">Languages and Tools:</h4>
 <p>HTML5 | CSS3 | Tailwind | Javascript | React JS | Node JS | Express JS | MongoDB | GitHub <p>
