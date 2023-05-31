@@ -11,7 +11,7 @@ I am constantly learning, I love to overcome challenges and, most importantly, I
 <h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/yubal-hormiga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/yubal.hormigahormiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yubal.hormigahormiga" height="30" width="40" /></a>
+
 
 
 <h4 align="center">Languages and Tools:</h4>
