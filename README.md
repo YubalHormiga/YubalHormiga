@@ -1,10 +1,4 @@
-# <h4 align="center" > ![](./text.gif)<h4>
-
 # <h4 align="center" >![](./text1.gif)<h4>
-
-<p align="center">
-  <b>¡Hola, reclutadores!</b>
-</p>
 
 Soy un apasionado programador Full-Stack en formación con enfoque en el desarrollo web.
 
@@ -25,7 +19,7 @@ Soy un apasionado programador Full-Stack en formación con enfoque en el desarro
 </p>
 
 <p align="center">
-  No dudes en contactarme y ser parte de mi viaje hacia el éxito en la programación.
+  No dudes en contactarme y ser parte de mi viaje en la programación.
 </p>
 
 <h4 align="center">Connect with me:</h4>
