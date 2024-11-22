@@ -23,41 +23,62 @@
 
 <hr>
 
-### Sobre mí:
-Soy un **Full Stack Web Developer junior** con formación en el **Neoland Bootcamp** y un enfoque constante en aprender nuevas tecnologías. Tras varios años de experiencia en el sector de agencias de viajes, decidí reorientar mi carrera hacia la programación web. Aunque no tengo experiencia profesional directa como desarrollador, he completado varios proyectos personales que me han permitido desarrollar habilidades en el desarrollo web, tanto en el frontend como en el backend.
+### ¿Quién soy? 🤔
+Soy un **Full Stack Web Developer junior** con formación en el **Neoland Bootcamp** y un enfoque constante en aprender nuevas tecnologías. Tras varios años de experiencia en el sector de agencias de viajes, decidí reorientar mi carrera hacia la programación web. Aunque no tengo experiencia profesional directa como desarrollador, he completado varios proyectos personales que me han permitido desarrollar habilidades tanto en el frontend como en el backend.
 
-- 🎓 **Formación** en Full Stack Web Development (Neoland Bootcamp) y formación autodidacta.
-- 💻 **Proyectos realizados**: CanineConnect (Vue 3, Firebase), WaterSportWorld (MEVN), Agenda T (MERN), entre otros.
-- 🚀 **Enfocado** en aprender constantemente y mejorar mis habilidades.
-- 🤝 Trabajo bien en equipo y me adapto rápidamente a nuevos entornos y tecnologías.
-- 💡 **Mentalidad de solución**: siempre en busca de la mejor manera de resolver problemas y crear soluciones efectivas.
+---
 
-<p align="center">
-  Actualmente buscando nuevas oportunidades para aplicar mis habilidades en desarrollo web.
-</p>
+### 🌟 Proyectos realizados:
+- [**CanineConnect**](https://github.com/YubalHormiga/Proyectos-Personales/tree/main/05_CanineConnect): Una aplicación para conectar dueños de perros con comunidades locales (Vue 3, Firebase).
+- [**WaterSportWorld**](https://github.com/YubalHormiga/Proyectos-Personales/tree/main/04_WaterSportWorld): Plataforma de reservas para actividades acuáticas (MEVN).
+- [**Agenda T**](https://github.com/YubalHormiga/ProjectBootcamp): Aplicación para organizar citas y controlar gastos (MERN).
 
-<p align="center">
-  No dudes en contactarme si quieres saber más sobre mis proyectos y mi carrera como desarrollador.
-</p>
+¡Explora mis proyectos y si tienes feedback, no dudes en compartirlo!
 
-<h4 align="center">Conéctate conmigo:</h4>
-<p align="center">
-<a href="https://www.linkedin.com/in/yubal-hormiga/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
+---
 
-<h4 align="center">Lenguajes y Herramientas:</h4>
+### 🎯 Objetivos actuales:
+- 🌱 Aprendiendo **PHP**, **Laravel**, y **SQL** para ampliar mis capacidades como desarrollador backend.
+- 🛠 Explorando **TypeScript**.
+- 👀 Interesado en colaborar en proyectos de **código abierto**.
+
+---
+
+### 🚀 Buscando nuevas oportunidades
+Estoy buscando un rol como **Desarrollador Full Stack Junior** en una empresa donde pueda aprender, aportar mis habilidades y crecer profesionalmente. Si estás interesado en mi perfil, **¡contáctame!**
+
+---
+
+### 📜 Logros en aprendizaje:
+- 🏆 Finalista en el hackathon interno de Neoland con el proyecto "CanineConnect".
+- 🚀 Completé más de 500 horas de desarrollo en proyectos personales y colaborativos.
+- 🎖 Certificado en **Full Stack Web Development** por Neoland.
+
+---
+
+### Tecnologías que domino 💻
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,nodejs,express,mongodb,firebase,git&perline=5" alt="tech-stack-icons"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,nodejs,express,mongodb,firebase,git,php,laravel,mysql,sql&perline=5" alt="tech-stack-icons"/>
   </a>
 </p>
 
-<h4 align="center">📫 ¿Cómo contactarme?</h4>
+---
+
+### Habilidades Blandas 🧠
+- 🤝 Trabajo en equipo y comunicación efectiva.
+- 💡 Adaptabilidad y aprendizaje rápido.
+- 🧠 Mentalidad analítica y resolución de problemas.
+
+---
+
+<h4 align="center">📬 Ponte en contacto conmigo:</h4>
 <p align="center">
-  yubalhh@gmail.com
+  <a href="mailto:yubalhh@gmail.com"><img src="https://img.shields.io/badge/-yubalhh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
