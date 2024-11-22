@@ -1,46 +1,90 @@
-# <h4 align="center" >![](./text1.gif)<h4>
-
-Soy un apasionado programador Full-Stack en formación con enfoque en el desarrollo web.
-
-- 🎓 Completé un bootcamp y continúo aprendiendo de forma autodidacta
-- 🌟 Habilidades en servicio al cliente, resolución de problemas y gestión de proyectos
-- 💡 Creatividad para encontrar soluciones innovadoras
-- 🚀 Siempre en busca de nuevos desafíos y dispuesto a crecer y mejorar
-- 💪 Actitud positiva y perseverante para superar retos
-- 🤝 Destaco en trabajo en equipo y comunicación abierta
-- 🌍 Creo en la colaboración para lograr resultados exitosos
+<h1 align="center">
+  ¡Hola, soy Yubal Hormiga!
+  <a href="https://github.com/YubalHormiga" target="_self">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
+</h1>
 
 <p align="center">
-  Mi pasión por el desarrollo web me impulsa a estar siempre al tanto de las últimas tendencias y tecnologías emergentes.
+  <a href="https://github.com/YubalHormiga">
+    <img src="https://komarev.com/ghpvc/?username=YubalHormiga&label=Profile%20views&color=0e75b6&style=flat" alt="YubalHormiga" />
+  </a>
+  <a href="https://github.com/YubalHormiga">
+    <img src="https://img.shields.io/github/followers/YubalHormiga?label=Followers&style=social" alt="YubalHormiga" />
+  </a>
+</p>
+
+<br/>
+<p align="center">
+  <a href="https://github.com/YubalHormiga">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Problem+Solver;Always%20Learning%20New%20Technologies&center=true&width=380&height=45">
+  </a>
+</p>
+
+<hr>
+
+### Sobre mí:
+Soy un **Full Stack Web Developer junior** con formación en el **Neoland Bootcamp** y un enfoque constante en aprender nuevas tecnologías. Tras varios años de experiencia en el sector de agencias de viajes, decidí reorientar mi carrera hacia la programación web. Aunque no tengo experiencia profesional directa como desarrollador, he completado varios proyectos personales que me han permitido desarrollar habilidades en el desarrollo web, tanto en el frontend como en el backend.
+
+- 🎓 **Formación** en Full Stack Web Development (Neoland Bootcamp) y formación autodidacta.
+- 💻 **Proyectos realizados**: CanineConnect (Vue 3, Firebase), WaterSportWorld (MEVN), Agenda T (MERN), entre otros.
+- 🚀 **Enfocado** en aprender constantemente y mejorar mis habilidades.
+- 🤝 Trabajo bien en equipo y me adapto rápidamente a nuevos entornos y tecnologías.
+- 💡 **Mentalidad de solución**: siempre en busca de la mejor manera de resolver problemas y crear soluciones efectivas.
+
+<p align="center">
+  Actualmente buscando nuevas oportunidades para aplicar mis habilidades en desarrollo web.
 </p>
 
 <p align="center">
-  Estoy en búsqueda de oportunidades para seguir creciendo y aportar mis habilidades en el desarrollo web.
+  No dudes en contactarme si quieres saber más sobre mis proyectos y mi carrera como desarrollador.
 </p>
 
+<h4 align="center">Conéctate conmigo:</h4>
 <p align="center">
-  No dudes en contactarme y ser parte de mi viaje en la programación.
+<a href="https://www.linkedin.com/in/yubal-hormiga/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
-<h4 align="center">Connect with me:</h4>
+<h4 align="center">Lenguajes y Herramientas:</h4>
 <p align="center">
-<a href="https://www.linkedin.com/in/yubal-hormiga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,nodejs,express,mongodb,firebase,git&perline=5" alt="tech-stack-icons"/>
+  </a>
+</p>
 
-<h4 align="center">Languages and Tools:</h4>
-<p align="center">HTML5 | CSS3 | Tailwind | Javascript | Vue JS | Node JS | Express JS | MongoDB | Firebase | Git <p>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p><br>
-
-<h4 align="center">📫 How to reach me yubalhh@gmail.com<h4>
+<h4 align="center">📫 ¿Cómo contactarme?</h4>
+<p align="center">
+  yubalhh@gmail.com
+</p>
 
 ---
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yubalhormiga&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yubalhormiga&theme=dark&hide_border=false" /> 
+</td>
 
-<div align="center">
-  <a href="https://streak-stats.demolab.com?user=yubalhormiga&theme=synthwave&locale=es&date_format=j%20M%5B%20Y%5D"><img src="https://streak-stats.demolab.com?user=yubalhormiga&theme=synthwave&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"></a>
-    <img src="https://github-readme-stats.vercel.app/api?username=yubalhormiga&show_icons=true&theme=radical" alt="Yubal GitHub stats">
-</div>
+<td width="50%" align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubalhormiga&layout=compact" alt="Top Langs">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yubalhormiga&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=yubalhormiga&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
+<!--- trophy (start) -->
 
 
