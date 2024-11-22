@@ -56,10 +56,10 @@ Estoy buscando un rol como **Desarrollador Full Stack Junior** en una empresa do
 
 ---
 
-### Tecnologías que domino 💻
+### Tecnologías  💻
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,nodejs,express,mongodb,firebase,git,php,laravel,mysql,sql&perline=5" alt="tech-stack-icons"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,nodejs,express,mongodb,firebase&perline=5" alt="tech-stack-icons"/>
   </a>
 </p>
 
