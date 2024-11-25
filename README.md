@@ -29,9 +29,10 @@ Soy un **Full Stack Web Developer junior** con formación en el **Neoland Bootca
 ---
 
 ### 🌟 Proyectos realizados:
-- [**CanineConnect**](https://github.com/YubalHormiga/Proyectos-Personales/tree/main/05_CanineConnect): Una aplicación para conectar dueños de perros con comunidades locales (Vue 3, Firebase).
-- [**WaterSportWorld**](https://github.com/YubalHormiga/Proyectos-Personales/tree/main/04_WaterSportWorld): Plataforma de reservas para actividades acuáticas (MEVN).
-- [**Agenda T**](https://github.com/YubalHormiga/ProjectBootcamp): Aplicación para organizar citas y controlar gastos (MERN).
+- <a href="https://github.com/YubalHormiga/Proyectos-Personales/tree/main/05_CanineConnect" target="_blank">**CanineConnect**</a>: Una aplicación para conectar dueños de perros con comunidades locales (Vue 3, Firebase).
+- <a href="https://github.com/YubalHormiga/Proyectos-Personales/tree/main/04_WaterSportWorld" target="_blank">**WaterSportWorld**</a>: Plataforma de reservas para actividades acuáticas (MEVN).
+- <a href="https://github.com/YubalHormiga/ProjectBootcamp" target="_blank">**Agenda T**</a>: Aplicación para organizar citas y controlar gastos (MERN).
+
 
 ¡Explora mis proyectos y si tienes feedback, no dudes en compartirlo!
 
@@ -50,8 +51,6 @@ Estoy buscando un rol como **Desarrollador Full Stack Junior** en una empresa do
 ---
 
 ### 📜 Logros en aprendizaje:
-- 🏆 Finalista en el hackathon interno de Neoland con el proyecto "CanineConnect".
-- 🚀 Completé más de 500 horas de desarrollo en proyectos personales y colaborativos.
 - 🎖 Certificado en **Full Stack Web Development** por Neoland.
 
 ---
