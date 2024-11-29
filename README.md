@@ -50,7 +50,7 @@ Estoy buscando un rol como **Desarrollador Full Stack Junior** en una empresa do
 ---
 
 ### 📜 Logros en aprendizaje:
-- 🎖 Certificado en **Full Stack Web Development** por Neoland.
+- 🎖 Certificado en <a href="https://www.credential.net/5879ff0d-5964-44da-becf-f1d85291ee70#acc.5HRnIdjN" target="_blank">**Full Stack Web Development**</a> por Neoland.
 
 ---
 
