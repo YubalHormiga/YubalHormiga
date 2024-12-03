@@ -31,9 +31,7 @@ Soy un **Full Stack Web Developer junior** con formación en el **Neoland Bootca
 ### 🌟 Proyectos realizados:
 - <a href="https://github.com/YubalHormiga/Proyectos-Personales/tree/main/05_CanineConnect" target="_blank">**CanineConnect**</a>: Una aplicación para conectar dueños de perros con comunidades locales (Vue 3, Firebase).
 - <a href="https://github.com/YubalHormiga/Proyectos-Personales/tree/main/04_WaterSportWorld" target="_blank">**WaterSportWorld**</a>: Plataforma de reservas para actividades acuáticas (MEVN).
-- <a href="https://github.com/YubalHormiga/TechMix" target="_blank">**TechMix**</a>: Aquí muestro miniaplicaciones, utilidades prácticas, pruebas técnicas y ejercicios de lógica 
-
-¡Explora mis proyectos y si tienes feedback, no dudes en compartirlo!
+- <a href="https://github.com/YubalHormiga/TechMix" target="_blank">**TechMix**</a>: **TechMix** es una serie de proyectos prácticos diseñados para impulsar el aprendizaje de **Vue.js** y otras tecnologías clave. Cada aplicación en este repositorio abarca desde conceptos básicos hasta avanzados, con un enfoque en la resolución de problemas y la integración de mejores prácticas en desarrollo web. ¡Es el espacio ideal para ver cómo mejorar tu habilidad en Vue.js y enfrentar nuevos desafíos!
 
 ---
 
@@ -100,6 +98,12 @@ Estoy buscando un rol como **Desarrollador Full Stack Junior** en una empresa do
 
 <!--- trophy (start) -->
 <div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=yubalhormiga&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=yubalhormiga&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
