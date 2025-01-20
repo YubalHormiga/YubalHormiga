@@ -37,6 +37,7 @@ Soy un **Full Stack Web Developer junior** con formación en el **Neoland Bootca
 
 ### 🎯 Objetivos actuales:
 - 🌱 Aprendiendo **PHP**, **Laravel**, y **SQL** para ampliar mis capacidades como desarrollador backend.
+- 📚 Aprendiendo a desarrollar con **WordPress** y familiarizándome con su ecosistema.
 - 🛠 Explorando **TypeScript**.
 - 👀 Interesado en colaborar en proyectos de **código abierto**.
 
